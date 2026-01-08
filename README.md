@@ -15,7 +15,8 @@ I bounce between:
 - **random hypergraphs**: thresholds + algorithmic limits (OGP-style reasoning)
 
 ## how i like to work
-I usually juggle two projects at once: one math-heavy and one code-heavy. If one gets stuck, I switch lanes to keep progress moving. If both get stuck… YouTube.
+
+I usually juggle two projects at once: one math-heavy and one code-heavy. proof brain stuck? I build. Code stuck? I go back to the model.
 
 ## tools
 Python • C++ • R • SQL • NumPy/pandas/Polars • Monte Carlo/MCMC • LaTeX • Linux • Git/Docker
