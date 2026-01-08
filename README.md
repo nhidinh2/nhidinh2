@@ -15,7 +15,7 @@ I bounce between:
 - **random hypergraphs**: thresholds + algorithmic limits (OGP-style reasoning)
 
 ## how i like to work
-clean baselines first, then fancier models. if it’s not reproducible, i don’t trust it.
+I usually juggle two projects at once: one math-heavy and one code-heavy. If one gets stuck, I switch lanes to keep progress moving. If both get stuck… YouTube.
 
 ## tools
 Python • C++ • R • SQL • NumPy/pandas/Polars • Monte Carlo/MCMC • LaTeX • Linux • Git/Docker
