@@ -1,16 +1,23 @@
-## Hi there 👋
+# hi, i’m Nhi 👋
 
-<!--
-**nhidinh2/nhidinh2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Stats + CS student at UIUC (math minor), applying for PhD programs in the **2026 cycle**.  
+I like problems where randomness has rules — and where “good results” don’t count unless the evaluation survives reality checks.
 
-Here are some ideas to get you started:
+I bounce between:
+- **probability / stochastic processes** (randomness with structure)
+- **statistical learning + inference** (generalization, uncertainty, diagnostics)
+- **quant / market microstructure** (limit order books, signal vs overfitting, costs, regimes)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## what i’m working on
+- **market microstructure experiments**: LOB features → prediction → signals → backtests  
+  *(walk-forward splits, transaction costs, leakage checks, drawdown/turnover — i’m picky about this stuff)*
+- **MCMC mixing**: MH vs Gibbs, tuning + diagnostics (the “why is my chain stuck?” problem)
+- **random hypergraphs**: thresholds + algorithmic limits (OGP-style reasoning)
+
+## how i like to work
+clean baselines first, then fancier models. if it’s not reproducible, i don’t trust it.
+
+## tools
+Python • C++ • R • SQL • NumPy/pandas/Polars • Monte Carlo/MCMC • LaTeX • Linux • Git/Docker
+
+📫 nhidinh2@illinois.edu
