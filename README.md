@@ -13,12 +13,12 @@ hopefully more
 
 ## what i've done
 - **[merton-calibration](https://github.com/nhidinh2/merton-calibration)** — Calibrate Merton structural credit model; baseline vs EWMA-smoothed vol for stable PD estimates.
-- **[MHI-ALGO](https://github.com/nhidinh2/MHI-ALGO)** —  MH vs Gibbs, tuning + diagnostics
-- **[MHI-ALGO](https://github.com/passyur/DISSCO-2.2.0/tree/main)** Built a simulation-based digital instrument using Markov-chain transitions.
-- **[BoostStockModel](https://github.com/nhidinh2/BoostStockModel)** — IEX DEEP/TRADE data → XGBoost model → C++/Strategy Studio backtesting + analytics.
+- **[mhi-algo](https://github.com/nhidinh2/MHI-ALGO)** —  MH vs Gibbs, tuning + diagnostics
+- **[dissco](https://github.com/passyur/DISSCO-2.2.0/tree/main)** Built a simulation-based digital instrument using Markov-chain transitions.
+- **[boost-stock-model](https://github.com/nhidinh2/BoostStockModel)** — IEX DEEP/TRADE data → XGBoost model → C++/Strategy Studio backtesting + analytics.
 - **[web-netcorp](https://github.com/nhidinh2/web-netcorp)** — TypeScript/Tailwind website (deployed).
-- **[AutoCalendarNLP](https://github.com/nhidinh2/AutoCalendarNLP)** — FastAPI NLP → calendar events (extracts date/time/people/location; integrates with Google Calendar).
-- **[AICusotmerBot](https://github.com/nhidinh2/AICusotmerBot)** — GraphRAG-style QA bot (index → visualize → query), with prompts + Neo4j in-repo.
+- **[auto-calendar](https://github.com/nhidinh2/AutoCalendarNLP)** — FastAPI NLP → calendar events (extracts date/time/people/location; integrates with Google Calendar).
+- **[auto-customer-bot](https://github.com/nhidinh2/AICusotmerBot)** — GraphRAG-style QA bot (index → visualize → query), with prompts + Neo4j in-repo.
 
 
 ## how i like to work
