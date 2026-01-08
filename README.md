@@ -1,20 +1,20 @@
-# hi, i’m Nhi 👋
+# hi, i’m nhi dinh 
 
-I’m a Stats + CS student at UIUC (math minor).  
-I like problems where randomness has rules — and where “good results” don’t count unless the evaluation survives reality checks.
+I’m a stats + cs student @ UIUC (math minor).  
 
 I bounce between:
 - **probability / stochastic processes** (randomness with structure)
 - **statistical learning + inference** (generalization, uncertainty, diagnostics)
 - **quant / market microstructure** (limit order books, signal vs overfitting, costs, regimes)
 
-## what i’m working on
+## what i’m working on (jan 26)
 - **random hypergraphs**: thresholds + algorithmic limits (OGP-style reasoning)
-- more
+hopefully more
 
 ## what i've done
 - **[merton-calibration](https://github.com/nhidinh2/merton-calibration)** — Calibrate Merton structural credit model; baseline vs EWMA-smoothed vol for stable PD estimates.
 - **[MHI-ALGO](https://github.com/nhidinh2/MHI-ALGO)** —  MH vs Gibbs, tuning + diagnostics
+- **[MHI-ALGO](https://github.com/passyur/DISSCO-2.2.0/tree/main)** Built a simulation-based digital instrument using Markov-chain transitions.
 - **[BoostStockModel](https://github.com/nhidinh2/BoostStockModel)** — IEX DEEP/TRADE data → XGBoost model → C++/Strategy Studio backtesting + analytics.
 - **[web-netcorp](https://github.com/nhidinh2/web-netcorp)** — TypeScript/Tailwind website (deployed).
 - **[AutoCalendarNLP](https://github.com/nhidinh2/AutoCalendarNLP)** — FastAPI NLP → calendar events (extracts date/time/people/location; integrates with Google Calendar).
@@ -30,4 +30,4 @@ Python • C++ • R • SQL • NumPy/pandas/Polars • Monte Carlo/MCMC • La
 
 
 
-📫 nhidinh2@illinois.edu
+nhidinh2@illinois.edu
