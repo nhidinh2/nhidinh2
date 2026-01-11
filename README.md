@@ -14,7 +14,7 @@ hopefully more
 ## what i've done
 - **[merton-calibration](https://github.com/nhidinh2/merton-calibration)** — calibrate Merton structural credit model; baseline vs EWMA-smoothed vol for stable PD estimates.
 - **[mhi-algo](https://github.com/nhidinh2/MHI-ALGO)** —  MH vs Gibbs, tuning + diagnostics
-- **[dissco](https://github.com/passyur/DISSCO-2.2.0/tree/main)** built a simulation-based digital instrument using Markov-chain transitions.
+- **[dissco](https://github.com/passyur/DISSCO-2.2.0/tree/main)** — built a simulation-based digital instrument using Markov-chain transitions.
 - **[boost-stock-model](https://github.com/nhidinh2/BoostStockModel)** — IEX DEEP/TRADE data → XGBoost model → C++/Strategy Studio backtesting + analytics.
 - **[web-netcorp](https://github.com/nhidinh2/web-netcorp)** — TypeScript/Tailwind website (deployed).
 - **[auto-calendar](https://github.com/nhidinh2/AutoCalendarNLP)** — FastAPI NLP → calendar events; integrates with Google Calendar.
