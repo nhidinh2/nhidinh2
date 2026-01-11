@@ -20,11 +20,6 @@ hopefully more
 - **[auto-calendar](https://github.com/nhidinh2/AutoCalendarNLP)** — FastAPI NLP → calendar events; integrates with Google Calendar.
 - **[auto-customer-bot](https://github.com/nhidinh2/AICusotmerBot)** — GraphRAG-style QA bot (index → visualize → query), with prompts + Neo4j in-repo.
 
-
-## how i like to work
-
-I usually juggle two projects at once: one math-heavy and one code-heavy. proof brain stuck? I build. Code stuck? I go back to the model.
-
 ## tools
 Python • C++ • R • SQL • NumPy/pandas/Polars • Monte Carlo/MCMC • LaTeX • Linux • Git/Docker
 
