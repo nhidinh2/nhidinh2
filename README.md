@@ -9,7 +9,7 @@ I bounce between:
 
 ## what i’m working on (jan 26)
 - **random hypergraphs**: thresholds + algorithmic limits (OGP-style reasoning)
-- **[stock-forecasting](https://github.com/nhidinh2/stock-forecasting)** — time series forecasting of Bitcoin using ARIMAX and eGARCH in R and Python.
+- **[crypto-forecasting](https://github.com/nhidinh2/crypto-forecasting)** — time series forecasting of Bitcoin using ARIMAX and eGARCH in R and Python.
 hopefully more
 
 ## what i've done
