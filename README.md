@@ -3,9 +3,11 @@
 I’m a stats + cs student @ UIUC (math minor).  
 
 I bounce between:
-- **probability / stochastic processes** (randomness with structure)
-- **statistical learning + inference** (generalization, uncertainty, diagnostics)
-- **quant / market microstructure** (limit order books, signal vs overfitting, costs, regimes)
+- discrete probability & random structure
+- combinatorics & enumeration
+- computational statistics & stochastic processes
+- time series & volatility modeling
+- quant risk & empirical modeling systems
 
 ## what i’m working on (jan 26)
 - **random hypergraphs**: thresholds + algorithmic limits (OGP-style reasoning)
