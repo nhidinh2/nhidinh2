@@ -25,7 +25,7 @@ hopefully more
 - **[auto-customer-bot](https://github.com/nhidinh2/AICusotmerBot)** — GraphRAG-style QA bot (index → visualize → query), with prompts + Neo4j in-repo.
 
 ## tools
-Python • C++ • R • SQL • NumPy/pandas/Polars • Monte Carlo/MCMC • LaTeX • Linux • Git/Docker
+Python • C++ • R • SQL • NumPy/pandas/Polars • LaTeX • Linux • Git/Docker
 
 
 
