@@ -11,7 +11,7 @@ I bounce between:
 
 ## what i’m working on (jan 26)
 - **random hypergraphs**: thresholds + algorithmic limits (OGP-style reasoning)
-- **cylindrical tiling enumeration**: compute counts, match OEIS sequences, and prove patterns.
+- **[cylindrical tiling enumeration](https://github.com/nhidinh2/countingstrips)**: compute counts, match OEIS sequences, and prove patterns.
 hopefully more
 
 ## what i've done
