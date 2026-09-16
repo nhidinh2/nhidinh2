@@ -1,6 +1,6 @@
 # hi, i’m nhi dinh
 
-I’m a PhD student in Math, Stats & CS at UIC, and a UIUC Stats + CS alum (math minor).
+I’m a PhD student in Math + TCS at UIC, and a UIUC Stats + CS alum (math minor).
 
 these days i’m mostly interested in:
 - mathematical foundations of representation learning + retrieval
