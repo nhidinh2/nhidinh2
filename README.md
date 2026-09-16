@@ -3,17 +3,21 @@
 I’m a PhD student in Math, Stats & CS at UIC, and a UIUC Stats + CS alum (math minor).
 
 these days i’m mostly interested in:
+- mathematical foundations of representation learning + retrieval
 - NLP + LLM systems
-- retrieval, embeddings, and RAG
+- high-dimensional probability / geometry of embeddings
 - model evaluation + error analysis
 - AI agents / reliability
 - theoretical cs, probability, and combinatorics
 
-I like projects where there is both a modeling question and a systems question: how do we make the model useful, how do we evaluate it, and where does it break?
+I’m especially interested in questions like: when does nearest-neighbor retrieval actually work, how does it behave as dimension / corpus size / noise grow, and when do retrieval-augmented models start to fail?
+
+I like projects where there is both a mathematical question and a systems question: can we understand why a method should work, test where it breaks, and then build something useful around it?
 
 ## what i’m working on
 
 - **[specshield](https://github.com/nhidinh2/specshield)** — structural monitor for tool-using AI agents. it looks at typed actions, dataflow taint, and approval provenance instead of only asking another LLM whether an action looks safe.
+- **representation learning + retrieval theory** — interested in the probability / geometry behind embedding spaces, nearest-neighbor retrieval, robustness to noise, and theoretical behavior of RAG systems.
 - **NLP / retrieval / evals** — playing around with embeddings, retrieval pipelines, benchmark design, and error analysis for LLM systems.
 - **random structures + tcs** — random hypergraphs, combinatorics, thresholds, and algorithmic questions.
 
