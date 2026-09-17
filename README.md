@@ -4,7 +4,7 @@ I’m a PhD student in Mathematics, Statistics, and Computer Science at UIC. Bef
 
 I’m mostly interested in **probability, combinatorics, theoretical CS, and machine learning**. A lot of the questions I like are somewhere between theory and ML — things like the geometry of embeddings, why retrieval works, how much you can compress a representation before it starts losing useful information, and when simple algorithms work on random structures.
 
-I also like actually building things around those questions. Recently that has meant **retrieval / NLP systems, LLM evals, and agent reliability**. In general, I like projects where I can understand some of the math, run experiments to see where it breaks, and then build something useful from it.
+I also like actually building things around those questions. Recently that has meant **ML and retrieval systems, forecasting, model evaluation, and reliable AI agents**. In general, I like projects where I can understand some of the math, run experiments to see where it breaks, and then build something useful from it.
 
 **Email:** [nhidinh2@illinois.edu](mailto:nhidinh2@illinois.edu)
 
@@ -14,7 +14,7 @@ I also like actually building things around those questions. Recently that has m
 - algorithms and theoretical computer science
 - high-dimensional probability and geometry of representations
 - retrieval, embeddings, and representation learning
-- evaluation and reliability of LLM systems
+- statistical / ML modeling, evaluation, and reliable AI systems
 
 ## Publications
 
@@ -34,13 +34,15 @@ We study list coloring of multipartite uniform hypergraphs and give an efficient
 
 ## Selected projects
 
-**[NewsTrace](https://github.com/nhidinh2/newTrace)** — retrieval and story-tracking system for live news streams. It studies how aggressively article embeddings can be compressed while preserving retrieval quality, alongside clustering, provenance, deduplication, and evaluation.
+**[NewsTrace](https://github.com/nhidinh2/newTrace)** — retrieval and story-tracking system for live news streams. I use it to study embedding compression, retrieval quality, clustering, provenance, deduplication, and evaluation on a live corpus.
 
-**[SpecShield](https://github.com/nhidinh2/specshield)** — structural monitor for tool-using AI agents. It uses typed actions, dataflow taint, and approval provenance to study prompt-injection defenses and failure modes of agent monitors.
+**[SpecShield](https://github.com/nhidinh2/specshield)** — structural monitor for tool-using AI agents. It uses typed actions, dataflow taint, and approval provenance to study prompt-injection defenses and where different monitoring approaches fail.
 
-**[Cylindrical tiling enumeration](https://github.com/nhidinh2/countingstrips)** — computational and combinatorial work on enumerating border-strip decompositions on cylinders and understanding the resulting sequences and structure.
+**[Interval forecasting pipeline](https://github.com/nhidinh2/predicting-cc)** — end-to-end forecasting system for interval-level operational metrics, with feature engineering, gradient-boosted models, calibration, leave-month-out backtesting, CLI tooling, tests, and a dashboard.
 
-**[Vietnamese GraphRAG Q&A](https://github.com/nhidinh2/AICusotmerBot)** — retrieval system over Vietnamese documents using entity and relationship extraction, embeddings, graph-based retrieval, and source citations.
+**[Cylindrical tiling enumeration](https://github.com/nhidinh2/countingstrips)** — computational and combinatorial work on enumerating border-strip decompositions on cylinders: generate counts, look for structure and known sequences, and work toward proofs.
+
+Other things I’ve worked on include **[Merton model calibration](https://github.com/nhidinh2/merton-calibration)** for structural credit risk and a **[Vietnamese GraphRAG Q&A system](https://github.com/nhidinh2/AICusotmerBot)** for graph-based document retrieval.
 
 ## Background
 
