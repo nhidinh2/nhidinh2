@@ -1,10 +1,10 @@
-# Nhi U. Dinh
+# hi, i’m nhi dinh
 
-I am a PhD student in Mathematics, Statistics, and Computer Science at the University of Illinois Chicago. I received my B.S. in Statistics + Computer Science with a minor in Mathematics from the University of Illinois Urbana-Champaign.
+I’m a PhD student in Mathematics, Statistics, and Computer Science at UIC. Before that, I studied Statistics + Computer Science at UIUC with a math minor.
 
-My research interests are in **probabilistic combinatorics, theoretical computer science, and the mathematical foundations of representation learning and retrieval**. I am particularly interested in random discrete structures and algorithms, high-dimensional geometry of embeddings, and understanding when retrieval and learning methods succeed, fail, or remain robust under compression and noise.
+I’m mostly interested in **probability, combinatorics, theoretical CS, and machine learning**. A lot of the questions I like are somewhere between theory and ML — things like the geometry of embeddings, why retrieval works, how much you can compress a representation before it starts losing useful information, and when simple algorithms work on random structures.
 
-Alongside theoretical work, I build and evaluate systems in **NLP, retrieval, LLM evaluation, and reliable AI agents**, especially when the experiments can help clarify the underlying mathematical questions.
+I also like actually building things around those questions. Recently that has meant **retrieval / NLP systems, LLM evals, and agent reliability**. In general, I like projects where I can understand some of the math, run experiments to see where it breaks, and then build something useful from it.
 
 **Email:** [nhidinh2@illinois.edu](mailto:nhidinh2@illinois.edu)
 
