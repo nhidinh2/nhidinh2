@@ -1,6 +1,6 @@
-# hi, i’m nhi dinh
+# hi, i’m nhi dinh (nee-din) 
 
-I’m a PhD student in Math + TCS at UIC, and a UIUC Stats + CS alum (math minor).
+I’m a PhD student in Math + TCS @ UIC, and a UIUC Stats + CS alum (math minor).
 
 these days i’m mostly interested in:
 - mathematical foundations of representation learning + retrieval
@@ -9,8 +9,7 @@ these days i’m mostly interested in:
 - model evaluation + error analysis
 - AI agents / reliability
 - theoretical cs, probability, and combinatorics
-
-I’m especially interested in questions like: when does nearest-neighbor retrieval actually work, how does it behave as dimension / corpus size / noise grow, and when do retrieval-augmented models start to fail?
+- (finishing my prelim)
 
 I like projects where there is both a mathematical question and a systems question: can we understand why a method should work, test where it breaks, and then build something useful around it?
 
