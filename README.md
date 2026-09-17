@@ -21,7 +21,7 @@ I like projects where there is both a mathematical question and a systems questi
 - **NLP / retrieval / evals** — playing around with embeddings, retrieval pipelines, benchmark design, and error analysis for LLM systems.
 - **random structures + tcs** — random hypergraphs, combinatorics, thresholds, and algorithmic questions.
 
-## NLP + AI stuff
+## retrieval + ML systems
 
 - **[NewsTrace](https://github.com/nhidinh2/newTrace)** — live AI / tech news tracker that groups same-event articles into evolving stories, keeps provenance + independent-source counts, and compares full vs. compressed embedding retrieval. on a 30-day corpus, 32D SVD used 92% less embedding memory with no measurable loss in retrieval quality.
 - **[Vietnamese GraphRAG Q&A](https://github.com/nhidinh2/AICusotmerBot)** — GraphRAG-style QA over documents in Vietnamese: indexing, entity / relationship extraction, embeddings, local + global retrieval, source citations, and Neo4j visualization.
