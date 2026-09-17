@@ -47,7 +47,8 @@ Other things I’ve worked on include **[Merton model calibration](https://githu
 ## Background
 
 **University of Illinois Chicago**  
-PhD student, Mathematics, Statistics, and Computer Science
+PhD student, Mathematics, Statistics, and Computer Science  
+Passed the Master's Examination in Mathematical Computer Science (2026)
 
 **University of Illinois Urbana-Champaign**  
 B.S. Statistics + Computer Science, minor in Mathematics
