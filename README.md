@@ -23,6 +23,7 @@ I like projects where there is both a mathematical question and a systems questi
 
 ## NLP + AI stuff
 
+- **[NewsTrace](https://github.com/nhidinh2/newTrace)** — live AI / tech news tracker that groups same-event articles into evolving stories, keeps provenance + independent-source counts, and compares full vs. compressed embedding retrieval. on a 30-day corpus, 32D SVD used 92% less embedding memory with no measurable loss in retrieval quality.
 - **[Vietnamese GraphRAG Q&A](https://github.com/nhidinh2/AICusotmerBot)** — GraphRAG-style QA over documents in Vietnamese: indexing, entity / relationship extraction, embeddings, local + global retrieval, source citations, and Neo4j visualization.
 - **[AutoCalendarNLP](https://github.com/nhidinh2/AutoCalendarNLP)** — takes natural-language task descriptions, extracts things like date / time / people / location, and turns them into Google Calendar events through FastAPI.
 - **[specshield](https://github.com/nhidinh2/specshield)** — prompt-injection / agent-safety project with multi-step taint tracking, English + Vietnamese attack scenarios, and evaluation tooling.
