@@ -1,47 +1,88 @@
-# hi, i’m nhi dinh (nee-din) 
+<div align="center">
 
-I’m a PhD student in Math + TCS @ UIC, and a UIUC Stats + CS alum (math minor).
+# hi, i’m nhi dinh
 
-these days i’m mostly interested in:
-- mathematical foundations of representation learning + retrieval
-- NLP + LLM systems
-- high-dimensional probability / geometry of embeddings
-- model evaluation + error analysis
-- AI agents / reliability
-- theoretical cs, probability, and combinatorics
-- (finishing my prelim)
+**math + theoretical cs · machine learning · nlp / retrieval**
 
-I like projects where there is both a mathematical question and a systems question: can we understand why a method should work, test where it breaks, and then build something useful around it?
+PhD student @ UIC · UIUC Statistics + CS alum (math minor)
 
-## what i’m working on
+I like problems where there is both a mathematical question and a systems question: understand why a method should work, measure where it breaks, and build something useful around it.
 
-- **[specshield](https://github.com/nhidinh2/specshield)** — structural monitor for tool-using AI agents. it looks at typed actions, dataflow taint, and approval provenance instead of only asking another LLM whether an action looks safe.
-- **representation learning + retrieval theory** — interested in the probability / geometry behind embedding spaces, nearest-neighbor retrieval, robustness to noise, and theoretical behavior of RAG systems.
-- **NLP / retrieval / evals** — playing around with embeddings, retrieval pipelines, benchmark design, and error analysis for LLM systems.
-- **random structures + tcs** — random hypergraphs, combinatorics, thresholds, and algorithmic questions.
+[about](#about) · [selected work](#selected-work) · [research](#research) · [background](#background) · [contact](#contact)
 
-## retrieval + ML systems
+</div>
 
-- **[NewsTrace](https://github.com/nhidinh2/newTrace)** — live AI / tech news tracker that groups same-event articles into evolving stories, keeps provenance + independent-source counts, and compares full vs. compressed embedding retrieval. on a 30-day corpus, 32D SVD used 92% less embedding memory with no measurable loss in retrieval quality.
-- **[Vietnamese GraphRAG Q&A](https://github.com/nhidinh2/AICusotmerBot)** — GraphRAG-style QA over documents in Vietnamese: indexing, entity / relationship extraction, embeddings, local + global retrieval, source citations, and Neo4j visualization.
-- **[AutoCalendarNLP](https://github.com/nhidinh2/AutoCalendarNLP)** — takes natural-language task descriptions, extracts things like date / time / people / location, and turns them into Google Calendar events through FastAPI.
-- **[specshield](https://github.com/nhidinh2/specshield)** — prompt-injection / agent-safety project with multi-step taint tracking, English + Vietnamese attack scenarios, and evaluation tooling.
-- **[predicting-cc](https://github.com/nhidinh2/predicting-cc)** — end-to-end ML forecasting pipeline with feature engineering, XGBoost-style models, calibration, backtesting, tests, CLI tooling, and a React dashboard.
+---
 
-## other things i’ve built / worked on
+## about
 
-- **[cylindrical tiling enumeration](https://github.com/nhidinh2/countingstrips)** — compute counts, match OEIS sequences, and try to prove the patterns.
-- **[merton-calibration](https://github.com/nhidinh2/merton-calibration)** — calibrate the Merton structural credit model; compare baseline vs EWMA-smoothed volatility estimates.
-- **[MHI-ALGO](https://github.com/nhidinh2/MHI-ALGO)** — Metropolis-Hastings vs Gibbs, tuning + diagnostics.
-- **[crypto-forecasting](https://github.com/nhidinh2/crypto-forecasting)** — Bitcoin forecasting with ARIMAX + eGARCH in R and Python.
-- **[BoostStockModel](https://github.com/nhidinh2/BoostStockModel)** — IEX DEEP/TRADE data → XGBoost → C++ / Strategy Studio backtesting + analytics.
+I’m a PhD student at UIC working around probability, combinatorics, theoretical CS, and machine learning. I’m especially interested in the mathematical foundations of **representation learning + retrieval**, high-dimensional probability / geometry, **LLM evaluation + reliability**, and algorithms on random or discrete structures.
 
-## tools
+Recently I’ve been building retrieval and evaluation systems and thinking about how theoretical questions about embeddings, compression, robustness, and algorithmic structure show up in real systems.
 
-Python • SQL • C++ • C • R  
-PyTorch • scikit-learn • GraphRAG • embeddings • FastAPI • Streamlit • Neo4j  
-NumPy • pandas • SciPy • Git • Linux • Docker • pytest • LLM APIs
+## selected work
 
-currently looking for NLP / applied AI / ML research engineering work where i can do retrieval, evals, data pipelines, and model / system experimentation.
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/nhidinh2/newTrace">NewsTrace</a></h3>
+<p>Real-time AI / tech story tracker with provenance-aware retrieval, source deduplication, clustering, and compressed embeddings.</p>
+<p>On a 30-day live corpus, a 32D SVD index used <b>92% less embedding memory</b> with no measurable loss in retrieval quality.</p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/nhidinh2/specshield">SpecShield</a></h3>
+<p>Structural trusted monitor for tool-using AI agents.</p>
+<p>Authorizes actions from typed fields, dataflow taint, and approval provenance rather than relying only on another LLM to judge whether an action looks safe.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/nhidinh2/countingstrips">Cylindrical tiling enumeration</a></h3>
+<p>Computational + combinatorial work on counting border-strip decompositions on cylinders: generate data, identify patterns, connect them to known sequences, and work toward proofs.</p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/nhidinh2/AICusotmerBot">Vietnamese GraphRAG Q&A</a></h3>
+<p>GraphRAG-style QA over Vietnamese documents using entity / relationship extraction, embeddings, local + global retrieval, citations, and Neo4j visualization.</p>
+</td>
+</tr>
+</table>
 
-nhidinh2@illinois.edu
+<p align="right"><a href="https://github.com/nhidinh2?tab=repositories">more projects →</a></p>
+
+## research
+
+### Algorithmic Phase Transition for Large Independent Sets in Dense Hypergraphs
+**APPROX/RANDOM 2026** · with Abhishek Dhawan, Eren C. Kızıldağ, Neeladri Maitra, and Bayram A. Şahin  
+[paper](https://doi.org/10.4230/LIPIcs.APPROX/RANDOM.2026.68) · [arXiv](https://arxiv.org/abs/2605.05618)
+
+We study large independent sets in dense random hypergraphs, including online algorithms, sharp algorithmic barriers, and balanced independent sets in multipartite models.
+
+### Choosability of Multipartite Hypergraphs
+with Peter Bradshaw, Abhishek Dhawan, Shlok Mulye, and Rohan Rathi  
+[arXiv](https://arxiv.org/abs/2512.21222)
+
+Work on list coloring / choosability in multipartite uniform hypergraphs and efficient randomized coloring algorithms.
+
+## questions i keep coming back to
+
+- what geometric or probabilistic structure in an embedding space actually makes retrieval work?
+- how far can representations be compressed before useful information disappears?
+- how should we evaluate LLM systems when one aggregate metric hides the interesting failure modes?
+- when do simple algorithms succeed on random structures, and where do genuine computational barriers appear?
+
+## background
+
+**University of Illinois Chicago** — PhD student, mathematics + theoretical CS  
+**University of Illinois Urbana-Champaign** — B.S. Statistics + Computer Science, math minor
+
+## tools i use
+
+**Languages:** Python, SQL, C++, C, R  
+**ML / data:** PyTorch, scikit-learn, NumPy, pandas, SciPy, sentence-transformers, embeddings  
+**Systems:** FastAPI, Streamlit, Neo4j, Git, Linux, Docker, pytest, LLM APIs
+
+## contact
+
+I’m interested in research and engineering problems around retrieval, representation learning, NLP / LLM systems, evaluation, reliable agents, and mathematically grounded ML.
+
+**email:** nhidinh2@illinois.edu
