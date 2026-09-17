@@ -1,6 +1,6 @@
-# hi, i’m nhi dinh
+# hi, i’m nhi dinh (nee-din)
 
-I’m a PhD student in Mathematics, Statistics, and Computer Science at UIC. Before that, I studied Statistics + Computer Science at UIUC with a math minor.
+I’m a first-year PhD student in Mathematics, Statistics, and Computer Science at UIC. Before that, I studied Statistics + Computer Science at UIUC with a math minor.
 
 I’m mostly interested in **probability, combinatorics, theoretical CS, and machine learning**. A lot of the questions I like are somewhere between theory and ML — things like the geometry of embeddings, why retrieval works, how much you can compress a representation before it starts losing useful information, and when simple algorithms work on random structures.
 
