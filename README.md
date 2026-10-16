@@ -1,10 +1,8 @@
 # hi, i'm nhi dinh (nee-din) ♡
 
-i'm a first-year PhD student in mathematics, statistics, and computer science at the University of Illinois Chicago. before that, i studied statistics + computer science with a math minor at UIUC.
+i'm a first-year mathematics PhD student at the University of Illinois Chicago. before that, i studied statistics + computer science with a math minor at University of Illinois Urbana Champaign.
 
 i'm interested in probability, combinatorics, algorithms, and machine learning — especially the questions somewhere between theory and practice. i also enjoy building things, from retrieval and forecasting systems to tools for evaluating AI.
-
-outside of school, i like basketball, lego, house music, anime, roblox, and hanging out with my cat.
 
 ### come visit my homepage! 
 
