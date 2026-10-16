@@ -6,10 +6,11 @@ i'm interested in probability, combinatorics, algorithms, and machine learning �
 
 outside of school, i like basketball, lego, house music, anime, roblox, and hanging out with my cat.
 
-### come visit my homepage! 🌷
+### come visit my homepage! 
+
+**[explore my homepage →](https://nhi-universe.vercel.app/)**
 
 i've been building a little interactive website to share my research, projects, notes, and a few other things about me. it's still a work in progress, but i'd love for you to explore it!
 
-**[explore my homepage →](https://nhi-universe.vercel.app/)**
 
 [repositories](https://github.com/nhidinh2?tab=repositories) · [google scholar](https://scholar.google.com/citations?user=BjeNuUcAAAAJ) · [email](mailto:nhidinh2@illinois.edu)
