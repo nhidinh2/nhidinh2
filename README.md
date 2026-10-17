@@ -6,7 +6,7 @@ i'm interested in probability, combinatorics, algorithms, and machine learning �
 
 ### come visit my homepage! 
 
-**[explore my homepage →](https://nhi-universe.vercel.app/)**
+**[explore my homepage →](https://nhidinh2.github.io/?v=95d1e2b)**
 
 i've been building a little interactive website to share my research, projects, notes, and a few other things about me. it's still a work in progress, but i'd love for you to explore it!
 
