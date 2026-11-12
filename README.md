@@ -1,4 +1,4 @@
-# hi, i'm nhi dinh (nee-din) ♡
+# hi, i'm nhi dinh (ni)
 
 i'm a mathematics PhD student at University of Illinois Chicago. before that, i studied statistics + computer science with a math minor at University of Illinois Urbana Champaign.
 
